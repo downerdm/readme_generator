@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// A function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "MIT") {
@@ -14,7 +14,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
+// A function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "MIT") {
@@ -30,13 +30,13 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// A function to generate markdown for README
 function generateMarkdown(data) {
-  renderLicenseSection (data.license);
-  return `
-  # ${data.title}\n
+return `
+# ${data.title}\n
 
-  ## Description
+${renderLicenseBadge(data.license)}
+## Description
 
   ${data.description}\n
 
@@ -59,7 +59,8 @@ ${data.usage}\n
 
 ## License
 
-${renderLicenseBadge(data.license)}
+Please check out the following site regarding the license:
+${renderLicenseSection (data.license)};
 
 ## Contribution
 
@@ -73,7 +74,7 @@ ${data.tests}\n
 
 Here is how to contact me if you have any additional questions:
 
-<${data.gitHubUser}>\n
+<https://github.com/${data.gitHubUser}>\n
 <${data.email}>\n
 `;
 }

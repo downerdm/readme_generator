@@ -1,10 +1,11 @@
 
-  # Project
+# Project Title
 
 
-  ## Description
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+## Description
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur tortor a mi ultrices sodales. Maecenas consequat fringilla sagittis.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
 
 
 ## Table of Contents
@@ -18,26 +19,27 @@
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur tortor a mi ultrices sodales. Maecenas consequat fringilla sagittis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
 
 
 ## Usage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur tortor a mi ultrices sodales. Maecenas consequat fringilla sagittis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
 
 
 ## License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+Please check out the following site regarding the license:
+https://opensource.org/licenses/BSD-2-Clause;
 
 ## Contribution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur tortor a mi ultrices sodales. Maecenas consequat fringilla sagittis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
 
 
 ## Tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur tortor a mi ultrices sodales. Maecenas consequat fringilla sagittis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
 
 
 ## Questions
