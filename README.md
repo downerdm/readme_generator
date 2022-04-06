@@ -50,5 +50,19 @@ THEN I am taken to the corresponding section of the README
 
 ## Video Demonstration
 
-## Screenshot
+<https://drive.google.com/file/d/14iheVfcIxO_HgPnu2XGBYs1_5-jUZKOc/view?usp=sharing>
+
+## Screenshots
+
+Terminal Application:
+
+![Terminal Application](./Develop/images/Downer_README1.png)
+
+ReadMe file 1:
+
+![Generated README 1](./Develop/images/Downer_README2.png)
+
+ReadMe file 2:
+
+![Generated README 2](./Develop/images/Downer_README3.png)
 

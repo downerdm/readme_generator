@@ -2,10 +2,10 @@
 # Project Title
 
 
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae viverra lacus, sed lobortis purus. Vestibulum id nunc sit amet sem elementum blandit ac eu urna. Sed elementum venenatis congue. Praesent non pulvinar eros.
 
 
 ## Table of Contents
@@ -19,27 +19,27 @@
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae viverra lacus, sed lobortis purus. Vestibulum id nunc sit amet sem elementum blandit ac eu urna. Sed elementum venenatis congue. Praesent non pulvinar eros.
 
 
 ## Usage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae viverra lacus, sed lobortis purus. Vestibulum id nunc sit amet sem elementum blandit ac eu urna. Sed elementum venenatis congue. Praesent non pulvinar eros.
 
 
 ## License
 
 Please check out the following site regarding the license:
-https://opensource.org/licenses/BSD-2-Clause;
+https://opensource.org/licenses/MIT;
 
 ## Contribution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae viverra lacus, sed lobortis purus. Vestibulum id nunc sit amet sem elementum blandit ac eu urna. Sed elementum venenatis congue. Praesent non pulvinar eros.
 
 
 ## Tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet convallis nulla. Fusce at dolor pretium, consequat quam ac, mattis velit. Quisque a ultrices massa, quis venenatis eros.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae viverra lacus, sed lobortis purus. Vestibulum id nunc sit amet sem elementum blandit ac eu urna. Sed elementum venenatis congue. Praesent non pulvinar eros.
 
 
 ## Questions
