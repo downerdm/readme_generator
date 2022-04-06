@@ -48,6 +48,10 @@ THEN I am taken to the corresponding section of the README
 
 <https://github.com/downerdm/readme_generator>
 
+## Sample Generated README File
+
+<https://drive.google.com/file/d/1OqZ7MXcDh7O84EAaS7YgBvcSmcY90KIT/view?usp=sharing>
+
 ## Video Demonstration
 
 <https://drive.google.com/file/d/14iheVfcIxO_HgPnu2XGBYs1_5-jUZKOc/view?usp=sharing>
